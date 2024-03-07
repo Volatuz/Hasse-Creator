@@ -1,0 +1,7 @@
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\obj\Debug\LogicalHasse.csproj.AssemblyReference.cache
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\obj\Debug\LogicalHasse.csproj.CoreCompileInputs.cache
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\bin\Debug\LogicalHasse.exe.config
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\bin\Debug\LogicalHasse.exe
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\bin\Debug\LogicalHasse.pdb
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\obj\Debug\LogicalHasse.exe
+C:\Users\melisa alexandra\Documents\cs\LogicalHasse\obj\Debug\LogicalHasse.pdb

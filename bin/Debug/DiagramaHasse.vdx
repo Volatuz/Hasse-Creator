@@ -1,0 +1,33 @@
+<VisioDocument>
+  <Page ID="1" Name="Page-1">
+    <Shapes>
+      <Shape ID="1" Master="1" NameU="Ellip">
+        <XForm PinX="400" PinY="50" />
+        <Shapes>
+          <Shape ID="2" Master="1" NameU="Ellip">
+            <XForm PinX="300" PinY="150" />
+            <Shapes>
+              <Shape ID="3" Master="1" NameU="Ellip">
+                <XForm PinX="200" PinY="250" />
+              </Shape>
+              <Shape ID="3" Master="1" NameU="Ellip">
+                <XForm PinX="400" PinY="250" />
+              </Shape>
+            </Shapes>
+          </Shape>
+          <Shape ID="2" Master="1" NameU="Ellip">
+            <XForm PinX="500" PinY="150" />
+            <Shapes>
+              <Shape ID="3" Master="1" NameU="Ellip">
+                <XForm PinX="400" PinY="250" />
+              </Shape>
+              <Shape ID="3" Master="1" NameU="Ellip">
+                <XForm PinX="600" PinY="250" />
+              </Shape>
+            </Shapes>
+          </Shape>
+        </Shapes>
+      </Shape>
+    </Shapes>
+  </Page>
+</VisioDocument>
